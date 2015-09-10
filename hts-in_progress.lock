@@ -1,0 +1,7 @@
+Mirror in progress since Thu, 10 Sep 2015 17:00:36 .. please wait!
+winhttrack http://seriousgaming.fishingcactus.com/en/index.html -O ""/Users/james/websites/Fishing Cactus"" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=1636
+UID=501
+GID=501
+START=1441918836
